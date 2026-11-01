@@ -71,7 +71,7 @@ AliExpress affiche « des frais d'importation s'appliquent aux envois hors UE »
 | **Total** | **≈ 34 à 43 € HT par veste [ESTIM]** |
 
 - À 500 pièces (19,69 €) : **≈ 33 à 42 €**.
-- Via 1688/Yixia (26,80 €), avec en plus 5–10 % de commission d'agent : **≈ 41 à 47 €**.
+- Via 1688/Yixia (26,80 €), avec en plus 5–10 % de commission d'agent : **≈ 41 à 49 €**.
 - Coûts uniques en plus : l'échantillon. Son prix n'est pas affiché chez Yuehao ; les références sont 80 $ chez Longxin et 100 $ chez Profound, plus le port express.
 - La TVA de 20 % se paie sur le prix de vente (IOSS) : ce n'est pas un coût d'achat.
 - Si l'utilisateur importe en vrac en France, les 3 € + 2 € ne s'appliquent pas. On paie à la place les droits classiques (probablement 12 % pour un anorak en fibres synthétiques, **à confirmer** par un transitaire) et la TVA à l'import.
