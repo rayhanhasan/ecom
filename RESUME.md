@@ -65,7 +65,7 @@ Une page avec, dans l'ordre :
 Planches dans `research/sections/planches/`. En attente de validation, section par section.
 
 ## Prochaines étapes (priorité : produit)
-1. Commander les échantillons : fluo AliExpress, léopard, échantillon Yuehao.
+1. Commander les échantillons via Superbuy : fluo 1688 钻意 (1094581562350) + léopard 款款爆 (1074886325804).
 2. Test : 5 °C à sec pendant 30 min, eau à 15 °C, eau à 25 °C, 3 lavages.
 3. Messages fournisseurs (Yuehao, agent 1688) : Claude les rédige.
 4. Devis de fret groupé vers chez Rayhan, EORI, n° de TVA, Refashion.
